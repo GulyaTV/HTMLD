@@ -25,7 +25,15 @@
 <!DOCTYPE htmld>
 <htmld>
 <head>
-    <title>Моя страница</title>
+    <title>Гуля ТВ</title>
+    <style>
+        dog { font-size: 2.5em; color: #ff5733; }
+        puppy { font-size: 2em; color: #33a1ff; }
+        bark { font-size: 1.75em; color: #ff33a1; }
+        tail { font-size: 1.5em; color: #33ff57; }
+        paw { font-size: 1.25em; color: #a133ff; }
+        whisker { font-size: 1em; color: #ffa133; }
+    </style>
 </head>
 <body>
     <dog>Добро пожаловать на сайт Гуля ТВ!</dog>
